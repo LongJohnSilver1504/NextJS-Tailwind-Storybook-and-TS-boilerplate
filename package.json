@@ -23,7 +23,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.13",
     "@fullhuman/postcss-purgecss": "^4.0.0",
-    "@storybook/addon-actions": "^6.1.17",
+    "@storybook/addon-actions": "^6.2.9",
     "@storybook/addon-info": "^5.3.21",
     "@storybook/addon-knobs": "^6.1.17",
     "@storybook/addon-notes": "^5.3.21",
